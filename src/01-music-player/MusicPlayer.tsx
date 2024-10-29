@@ -33,7 +33,7 @@ export function MusicPlayerContainer() {
         <button className="rounded bg-neutral-200 px-3 py-1">Pause</button>
       </div>
 
-      <MusicPlayer className="h-20 bg-neutral-100 rounded text-neutral-900/50 italic" />
+      <MusicPlayer className="bg-neutral-100 rounded text-neutral-900/50 italic" />
     </>
   );
 }
